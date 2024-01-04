@@ -1,0 +1,22 @@
+                                                                     Project Management App
+                                                                       ProjectPulse
+
+ A project management app involves handling tasks, timelines, teams, and resources. 
+ Here's an outline of how you might approach building a project management application using Vue.js for the frontend and Node.js for the backend:
+
+ Features to Include:
+
+  1. User Authentication: Implement user signup, login, and logout functionalities.
+  2. Dashboard: Display an overview of ongoing projects, tasks, and upcoming deadlines.(https://i.ytimg.com/vi/VWlq2MWJiJc/maxresdefault.jpg)
+  3. Project Creation: Allow users to create new projects, set project details, and assign team members.
+  4. Task Management: Create, assign, and manage tasks within projects. Include task statuses, deadlines, and priorities.
+  5. File Sharing: Enable file uploads and sharing within projects or tasks.
+  6. Team Collaboration: Implement communication channels like comments, discussions, or a chat feature.
+  7. Calendar View: Provide a calendar view to visualize project timelines and milestones.
+  8. Notifications: Notify users about task assignments, deadlines, and updates.
+
+
+Tech Stack:
+  VueJs , NodeJs, ExpressJs, Sql
+  
+Inspiration Project --> https://youtu.be/kVvUBa3guS4?feature=shared
